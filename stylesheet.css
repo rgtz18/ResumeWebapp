@@ -23,6 +23,9 @@ ul {
     background-color: #111;
   }
 .header {
-color-scheme: #73a580;
-height: 200px;
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
 }
