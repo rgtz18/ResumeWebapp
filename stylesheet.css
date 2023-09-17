@@ -27,13 +27,13 @@ ul {
 .header {
   padding: 60px;
   text-align: center;
-  background:#556b2f;
-  color: black;
+  background:black;
+  color: white;
   font-size: 30px;
 }
 /* Cahnge the body background to Dark Olive green and Text to Black*/
 .body {
-  background:#556b2f;
-  color: black;
+  background:black;
+  color: white;
   font-size: 30px;
 }
