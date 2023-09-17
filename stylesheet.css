@@ -20,20 +20,20 @@ ul {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: #111;
+    background-color: #333;
   }
 
   /* Change the header backgroud to Dark Olive Green and Text to Black*/
 .header {
   padding: 60px;
   text-align: center;
-  background:black;
+  background:#333;
   color: white;
   font-size: 30px;
 }
 /* Cahnge the body background to Dark Olive green and Text to Black*/
 .body {
-  background:black;
+  background:#333;
   color: white;
   font-size: 30px;
 }
